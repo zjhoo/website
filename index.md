@@ -16,9 +16,11 @@
 - **技术广度：** 独立完成大前端 + Java + ESP32 的全栈开发与基础 IoT 物联网开发；对 AI Agent 实现有了解；
 - **工作流：** 熟练使用 Docker + Jenkins + Harbor + Kubernetes + Nacos / Nginx / Verdaccio / Linux 等工作流搭建和部署工具。
 
+
 ## 工作经历
 
 ### 四川寰宇纵恒　*（前端开发 | 2024.03 - 2026.09）*
+ [最近的技术建设文档](https://zjhoo.github.io/devDocs/)
 
 - 前端业务架构搭建和基础能力 npm 包建设和维护；框架项目加基础功能包实现业务和大屏功能的敏捷开发；
 - 低代码平台前端开发和迭代 + 基于低代码实现的 AI 提效工具开发（全栈）；前端 PUI + PrismJS 加后端 DDD 模式保障高可用、高延展性；
